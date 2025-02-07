@@ -30,7 +30,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(31, 31, 31, 0.85); /* Semi-transparent overlay */
+    background-color: rgba(31, 31, 31, 0.85); 
 }
 
 .header-content {
@@ -38,7 +38,7 @@ body {
     z-index: 1;
 }
 
-/* Navigation styles */
+
 .main-nav {
     background-color: #1a1919;
     padding: 1rem;
@@ -75,7 +75,7 @@ body {
     flex: 3;
 }
 
-/* Image container and responsive image styles */
+
 .image-container {
     width: 100%;
     margin: 1rem 0;
@@ -159,7 +159,7 @@ h2 {
     }
 }
 
-/* Ensure images don't exceed viewport */
+
 img {
     max-width: 100%;
     height: auto;
